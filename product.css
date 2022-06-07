@@ -277,13 +277,13 @@ input:focus{
     }
     header .links a{
         color:white;
-        display: block;
+        display: none;
         margin-top: 30px;
         font-size: 28px;
         font-weight: bold;
     }
     header .menu{
-        display: block;
+        display: none;
         width: 270px;
         height: 250px;
         margin-left: 70px;
